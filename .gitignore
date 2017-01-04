@@ -38,3 +38,8 @@ jspm_packages
 .idea/AngularSandbox.iml
 .idea/modules.xml
 .idea/workspace.xml
+.DS_Store
+.idea/.DS_Store
+.idea/inspectionProfiles/
+build/
+gulpfile.js
